@@ -19,10 +19,16 @@ Explore the preview: <https://geninvestor-research.vercel.app>
 
 The preview presents published experiments with their source data and assumptions, a passive baseline for comparison, and the limits of each result.
 
+## Source
+
+The full source is public and this repository mirrors it: <https://github.com/frankxai/GenInvestor>
+
+Apache-2.0. Start with the README there for the quick start, the guarantees and how each one is tested, and the known limits.
+
 ## Status
 
-- Research preview; not a released product.
-- The public source is not yet published. The working book and source repository are private at this stage.
+- Research preview; not a released product. The published source is alpha (0.1).
+- Source is public: <https://github.com/frankxai/GenInvestor>. This mirror tracks the published `main`.
 - Read-only: no accounts, orders, or money movement.
 - Information, not advice.
 
